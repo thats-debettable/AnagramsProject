@@ -13,5 +13,6 @@ public class anagrams {
 		output = new ArrayList<String>();
 		word = w;
 		max = m;
+		//peepeepoopoo
 	}
 }
